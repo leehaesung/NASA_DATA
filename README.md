@@ -1,6 +1,6 @@
 # NASA DATA RESOURCES
 
-![nasaLogo-150x150.png](https://github.com/leehaesung/NASA_DATA/blob/master/ImageFiles/nasaLogo-570x450.png)
+![nasaLogo-50x50.png](https://github.com/leehaesung/NASA_DATA/blob/master/ImageFiles/nasaLogo-570x450.png)
 
 Ref:  https://2017.spaceappschallenge.org/challenges/ideate-and-create/data-concierge/details
 
